@@ -45,5 +45,4 @@ The **HR Analytics Dashboard** provides a comprehensive overview of key employee
 ## Conclusion
 The **HR Analytics Dashboard** is a powerful tool for HR managers and executives to understand workforce dynamics, track employee statistics, and drive data-informed decision-making.
 
----
-For improvements or additional feature requests, please contact the HR Analytics team.
+
